@@ -1,2 +1,0 @@
-- name: run-circleci-artifacts-redirector
-  uses: larsoner/circleci-artifacts-redirector-action@0.2.0
